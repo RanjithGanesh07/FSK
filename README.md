@@ -103,6 +103,7 @@ The following graphs will be displayed:
 5. **Final Demodulated Signal:** Recovered digital signal from the FSK waveform.
    
 ![image](https://github.com/user-attachments/assets/7b961882-e8e2-420e-a54f-50c8b0af74a7)
+![WhatsApp Image 2025-04-30 at 13 10 53_d0ef9d22](https://github.com/user-attachments/assets/82e7dcd4-05d9-496a-8eb6-954f2eee19ee)
 
 
 ## Results:
